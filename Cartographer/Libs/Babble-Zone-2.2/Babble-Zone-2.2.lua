@@ -179,6 +179,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Tel'Abim"] = true,
 		["Alah'thalas"] = true,
         ["Alah'Thalas"] = true,
+        ["Blackstone Island"] = true,
         ["Thalassian Highlands"] = true,
 		["Lapidis Isle"] = true,
 		["Gillijim's Isle"] = true,
