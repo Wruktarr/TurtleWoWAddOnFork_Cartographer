@@ -187,6 +187,7 @@ BabbleZone:RegisterTranslations("enUS", function()
 		["Gillijim's Isle"] = true,
         ["Gilneas"] = true,
         ["Northwind"] = true,
+        ["Northwind "] = true, -- this needs to be here as Turtle WoW put space at end of zone name for no reason
 		["Scarlet Enclave"] = true,
 	}
 end)
